@@ -16,4 +16,3 @@ class Task():
     myFilter = ''
     def __init__(self):
         return
-
